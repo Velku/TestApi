@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-03T04:52:19Z" name="Default suite" finished-at="2025-03-03T04:52:47Z" duration-ms="28050">
+    <groups>
+      <group name="Webtable">
+        <method signature="webtable.webtable1()[pri:0, instance:Test.webtable@7e4204e2]" name="webtable1" class="Test.webtable"/>
+      </group> <!-- Webtable -->
+    </groups>
+    <test started-at="2025-03-03T04:52:19Z" name="Default test" finished-at="2025-03-03T04:52:47Z" duration-ms="28050">
+      <class name="Test.webtable">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Test.webtable@7e4204e2]" started-at="2025-03-03T04:52:14Z" name="setup" finished-at="2025-03-03T04:52:19Z" duration-ms="4752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="webtable1()[pri:0, instance:Test.webtable@7e4204e2]" started-at="2025-03-03T04:52:19Z" name="webtable1" finished-at="2025-03-03T04:52:47Z" duration-ms="27650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webtable1 -->
+        <test-method is-config="true" signature="tearnew()[pri:0, instance:Test.webtable@7e4204e2]" started-at="2025-03-03T04:52:47Z" name="tearnew" finished-at="2025-03-03T04:52:47Z" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearnew -->
+        <test-method is-config="true" signature="tear()[pri:0, instance:Test.webtable@7e4204e2]" started-at="2025-03-03T04:52:47Z" name="tear" finished-at="2025-03-03T04:52:48Z" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- Test.webtable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
